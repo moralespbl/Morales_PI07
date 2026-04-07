@@ -10,6 +10,34 @@ El objetivo es construir un dataset de cotizaciones (en particular, primas de op
 
 ---
 
+## 📌 Estado del sitio
+
+Al momento de desarrollar este proyecto, los informes diarios del IAMC se encontraban disponibles y accesibles desde el sitio web.
+
+Actualmente, dichos informes ya no se exponen públicamente (aproximadamente hasta octubre de 2025).
+
+Por lo tanto:
+
+* el script refleja la estructura y comportamiento del sitio en ese período
+* puede no funcionar correctamente en la actualidad debido a cambios en la web
+
+Este repositorio se mantiene con fines:
+
+* académicos
+* de referencia sobre técnicas de web scraping
+
+---
+
+## ⚠️ Uso responsable
+
+Si se adapta el script a otros sitios o versiones:
+
+* evitar ejecuciones en horarios de alta demanda
+* no generar tráfico innecesario
+* respetar las políticas del sitio
+
+---
+
 ## ⚙️ Problema
 
 El sitio no ofrece descarga masiva.
@@ -131,3 +159,4 @@ El desarrollo se realizó combinando:
 ## 📌 Uso
 
 Proyecto desarrollado con fines académicos (tesis de maestría en estadística).
+
